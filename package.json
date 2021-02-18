@@ -1,0 +1,20 @@
+{
+  "name": "isdocs",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@braid/vue-formulate": "^2.5.0",
+    "axios": "^0.21.1",
+    "fibers": "^5.0.0",
+    "nuxt": "^2.15.0",
+    "sass": "^1.32.7",
+    "sass-loader": "^10.1.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.3"
+  }
+}
